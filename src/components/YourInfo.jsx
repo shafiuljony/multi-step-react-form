@@ -73,7 +73,7 @@ const PersonalInfo = () => {
           <input
             onChange={(e) => setEmail(e.target.value)}
             className={`${
-              nameAlert
+              emailAlert
                 ? "focus:outline-primary-strawberryRed"
                 : "focus:outline-primary-marineBlue"
             } mb-6 outline outline-1 outline-neutral-lightGray rounded-[4px] p-3 `}
@@ -93,7 +93,7 @@ const PersonalInfo = () => {
           <input
             onChange={(e) => setNumber(e.target.value)}
             className={`${
-              nameAlert
+              numberAlert
                 ? "focus:outline-primary-strawberryRed"
                 : "focus:outline-primary-marineBlue"
             } mb-6 outline outline-1 outline-neutral-lightGray rounded-[4px] p-3 `}
