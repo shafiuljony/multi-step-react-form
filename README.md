@@ -48,11 +48,11 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Talwind CSS](https://tailwindcss.com/) - For styles
+- [Tailwind  CSS](https://tailwindcss.com/) - For styles
 
 ### What I learned
 
-In this Challenge I learn Context Api , UseState, Talwind CSS
+In this Challenge I learn Context Api , UseState, Tailwind  CSS
 
 
 ## Author
