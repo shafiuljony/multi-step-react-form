@@ -36,12 +36,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Multi Step Form React.png)
+![](./screenshort.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/shafiuljony/multi-step-react-form)
+- Live Site URL: [Add live site URL here](https://multistep-react-form-fm.netlify.app/)
 
 ## My process
 
