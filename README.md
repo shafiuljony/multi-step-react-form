@@ -11,12 +11,7 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -40,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/shafiuljony/multi-step-react-form)
-- Live Site URL: [Add live site URL here](https://multistep-react-form-fm.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/shafiuljony/multi-step-react-form)
+- Live Site URL: [Live site URL](https://multistep-react-form-fm.netlify.app/)
 
 ## My process
 
@@ -57,11 +52,11 @@ Users should be able to:
 
 ### What I learned
 
-In this Challenge I learn Context Api , UseState, Talwind Css
+In this Challenge I learn Context Api , UseState, Talwind CSS
 
 
 ## Author
 
-- Website - [shafiul islam](https://www.your-site.com)
+- Website - [shafiul islam](https://shafiul-3d-portfolio.netlify.app/)
 - Frontend Mentor - [@shafiuljony](https://www.frontendmentor.io/profile/shafiuljony)
 - Twitter - [@shafiul_islam12](https://www.twitter.com/shafiul_islam12)
